@@ -1,0 +1,4 @@
+(executable
+ (public_name study_ocaml)
+ (name main)
+ (libraries study_ocaml))
